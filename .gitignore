@@ -1,3 +1,5 @@
 .idea
 # 回声服务器编译
 /echo/target/
+# websocket服务器编译
+/web-socket/target/

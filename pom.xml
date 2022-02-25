@@ -12,6 +12,7 @@
 
     <modules>
         <module>echo</module>
+        <module>web-socket</module>
     </modules>
 
     <properties>
