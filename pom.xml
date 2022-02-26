@@ -13,6 +13,7 @@
     <modules>
         <module>echo</module>
         <module>web-socket</module>
+        <module>udp</module>
     </modules>
 
     <properties>

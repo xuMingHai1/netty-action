@@ -3,3 +3,5 @@
 /echo/target/
 # websocket服务器编译
 /web-socket/target/
+# UPD广播服务器
+/udp/target/
